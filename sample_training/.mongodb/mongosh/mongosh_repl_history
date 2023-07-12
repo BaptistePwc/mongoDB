@@ -1,0 +1,5 @@
+mongoimport -d sample -c books --authenticationDatabase admin --username admin --password pass --file data/db/books.json
+exit
+client = MongoClient( host="127.0.0.1", port = 27017, # auth line 1,
+from pprint import pprint
+from pymongo import MongoClientt MongoClient

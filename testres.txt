@@ -1,0 +1,403 @@
+*_*_*_*_*_*_*_*_*_*
+['admin', 'config', 'local', 'sample']
+*_*_*_*_*_*_*_*_*_*
+['books']
+*_*_*_*_*_*_*_*_*_*
+['_id',
+ 'title',
+ 'isbn',
+ 'pageCount',
+ 'publishedDate',
+ 'thumbnailUrl',
+ 'shortDescription',
+ 'longDescription',
+ 'status',
+ 'authors',
+ 'categories']
+*_*_*_*_*_*_*_*_*_*
+431
+*_*_*_*_*_*_*_*_*_*Exploration de la base*_*_*_*_*_*_*_*_*_*
+*_*_*_*_*_*_*_*_*_*
+168
+166
+4
+*_*_*_*_*_*_*_*_*_*
+
+Catégorie1 :
+Object-Technology Programming
+Microsoft
+Programming
+SOA
+Perl
+Microsoft .NET
+Java
+Client-Server
+internet
+Open Source
+Next Generation Databases
+XML
+Internet
+Business
+Web Development
+Microsoft/.NET
+In Action
+Software Engineering
+Python
+Miscellaneous
+java
+Networking
+Mobile Technology
+Theory
+Computer Graphics
+PHP
+PowerBuilder
+Object-Oriented Programming
+Algorithmic Art
+
+Catégorie12 :
+Mobile
+
+Open Source
+Theory
+Internet
+Computer Graphics
+Python
+Software Engineering
+Business
+P
+Networking
+Software Development
+.NET
+Perl
+S
+Java
+Client-Server
+*_*_*_*_*_*_*_*_*_*
+126
+*_*_*_*_*_*_*_*_*_*
+Categorie: ['PowerBuilder', 'Client-Server']
+Nombre maximal de pages: 550
+Nombre minimal de pages: 550
+Nombre moyen de pages: 550.0
+------
+Categorie: []
+Nombre maximal de pages: 950
+Nombre minimal de pages: 0
+Nombre moyen de pages: 90.2
+------
+Categorie: ['Internet', 'Theory']
+Nombre maximal de pages: 450
+Nombre minimal de pages: 450
+Nombre moyen de pages: 450.0
+------
+Categorie: ['Object-Oriented Programming', 'S']
+Nombre maximal de pages: 350
+Nombre minimal de pages: 350
+Nombre moyen de pages: 350.0
+------
+Categorie: ['Microsoft .NET', 'Internet']
+Nombre maximal de pages: 360
+Nombre minimal de pages: 360
+Nombre moyen de pages: 360.0
+------
+Categorie: ['Client-Server']
+Nombre maximal de pages: 1101
+Nombre minimal de pages: 280
+Nombre moyen de pages: 690.5
+------
+Categorie: ['Object-Oriented Programming']
+Nombre maximal de pages: 420
+Nombre minimal de pages: 352
+Nombre moyen de pages: 386.0
+------
+Categorie: ['Microsoft', '.NET']
+Nombre maximal de pages: 925
+Nombre minimal de pages: 925
+Nombre moyen de pages: 925.0
+------
+Categorie: ['Perl', 'Client-Server']
+Nombre maximal de pages: 424
+Nombre minimal de pages: 424
+Nombre moyen de pages: 424.0
+------
+Categorie: ['Theory']
+Nombre maximal de pages: 330
+Nombre minimal de pages: 280
+Nombre moyen de pages: 305.0
+------
+Categorie: ['Java', 'Client-Server', 'Internet']
+Nombre maximal de pages: 592
+Nombre minimal de pages: 592
+Nombre moyen de pages: 592.0
+------
+Categorie: ['In Action']
+Nombre maximal de pages: 0
+Nombre minimal de pages: 0
+Nombre moyen de pages: 0.0
+------
+Categorie: ['Business', 'Software Engineering']
+Nombre maximal de pages: 350
+Nombre minimal de pages: 350
+Nombre moyen de pages: 350.0
+------
+Categorie: ['Java', 'Software Development']
+Nombre maximal de pages: 600
+Nombre minimal de pages: 600
+Nombre moyen de pages: 600.0
+------
+Categorie: ['XML', 'Internet']
+Nombre maximal de pages: 680
+Nombre minimal de pages: 320
+Nombre moyen de pages: 500.0
+------
+Categorie: ['Computer Graphics', 'Perl']
+Nombre maximal de pages: 328
+Nombre minimal de pages: 328
+Nombre moyen de pages: 328.0
+------
+Categorie: ['Open Source', 'Mobile']
+Nombre maximal de pages: 416
+Nombre minimal de pages: 416
+Nombre moyen de pages: 416.0
+------
+Categorie: ['Java', 'Computer Graphics']
+Nombre maximal de pages: 520
+Nombre minimal de pages: 520
+Nombre moyen de pages: 520.0
+------
+Categorie: ['Python']
+Nombre maximal de pages: 688
+Nombre minimal de pages: 350
+Nombre moyen de pages: 492.4
+------
+Categorie: ['Software Engineering']
+Nombre maximal de pages: 544
+Nombre minimal de pages: 0
+Nombre moyen de pages: 236.16666666666666
+------
+Categorie: ['PHP']
+Nombre maximal de pages: 552
+Nombre minimal de pages: 552
+Nombre moyen de pages: 552.0
+------
+Categorie: ['Software Engineering', 'Theory']
+Nombre maximal de pages: 540
+Nombre minimal de pages: 448
+Nombre moyen de pages: 494.0
+------
+Categorie: ['Internet', 'Theory', 'XML']
+Nombre maximal de pages: 304
+Nombre minimal de pages: 304
+Nombre moyen de pages: 304.0
+------
+Categorie: ['Microsoft .NET']
+Nombre maximal de pages: 848
+Nombre minimal de pages: 0
+Nombre moyen de pages: 439.3636363636364
+------
+Categorie: ['Internet', 'Java']
+Nombre maximal de pages: 632
+Nombre minimal de pages: 402
+Nombre moyen de pages: 517.0
+------
+Categorie: ['Java', 'Internet', 'Computer Graph']
+Nombre maximal de pages: 400
+Nombre minimal de pages: 400
+Nombre moyen de pages: 400.0
+------
+Categorie: ['Programming']
+Nombre maximal de pages: 570
+Nombre minimal de pages: 0
+Nombre moyen de pages: 355.8181818181818
+------
+Categorie: ['Algorithmic Art']
+Nombre maximal de pages: 0
+Nombre minimal de pages: 0
+Nombre moyen de pages: 0.0
+------
+Categorie: ['PowerBuilder']
+Nombre maximal de pages: 504
+Nombre minimal de pages: 362
+Nombre moyen de pages: 414.3333333333333
+------
+Categorie: ['Internet', 'Networking', 'Miscella']
+Nombre maximal de pages: 0
+Nombre minimal de pages: 0
+Nombre moyen de pages: 0.0
+------
+Categorie: ['Perl']
+Nombre maximal de pages: 504
+Nombre minimal de pages: 304
+Nombre moyen de pages: 390.0
+------
+Categorie: ['Java', 'Business', 'Client Server', '']
+Nombre maximal de pages: 368
+Nombre minimal de pages: 368
+Nombre moyen de pages: 368.0
+------
+Categorie: ['Microsoft']
+Nombre maximal de pages: 700
+Nombre minimal de pages: 344
+Nombre moyen de pages: 522.0
+------
+Categorie: ['Java', 'Business']
+Nombre maximal de pages: 180
+Nombre minimal de pages: 180
+Nombre moyen de pages: 180.0
+------
+Categorie: ['Object-Technology Programming', '']
+Nombre maximal de pages: 200
+Nombre minimal de pages: 200
+Nombre moyen de pages: 200.0
+------
+Categorie: ['Java']
+Nombre maximal de pages: 1088
+Nombre minimal de pages: 0
+Nombre moyen de pages: 380.2236842105263
+------
+Categorie: ['Business', 'Client-Server']
+Nombre maximal de pages: 696
+Nombre minimal de pages: 220
+Nombre moyen de pages: 505.3333333333333
+------
+Categorie: ['Computer Graphics']
+Nombre maximal de pages: 840
+Nombre minimal de pages: 400
+Nombre moyen de pages: 568.5
+------
+Categorie: ['Client-Server', 'Networking']
+Nombre maximal de pages: 543
+Nombre minimal de pages: 320
+Nombre moyen de pages: 404.3333333333333
+------
+Categorie: ['java']
+Nombre maximal de pages: 0
+Nombre minimal de pages: 0
+Nombre moyen de pages: 0.0
+------
+Categorie: ['internet']
+Nombre maximal de pages: 400
+Nombre minimal de pages: 400
+Nombre moyen de pages: 400.0
+------
+Categorie: ['Networking']
+Nombre maximal de pages: 420
+Nombre minimal de pages: 420
+Nombre moyen de pages: 420.0
+------
+Categorie: ['Next Generation Databases']
+Nombre maximal de pages: 0
+Nombre minimal de pages: 0
+Nombre moyen de pages: 0.0
+------
+Categorie: ['Internet', 'Networking']
+Nombre maximal de pages: 341
+Nombre minimal de pages: 341
+Nombre moyen de pages: 341.0
+------
+Categorie: ['Miscellaneous']
+Nombre maximal de pages: 1096
+Nombre minimal de pages: 316
+Nombre moyen de pages: 706.0
+------
+Categorie: ['Internet']
+Nombre maximal de pages: 600
+Nombre minimal de pages: 200
+Nombre moyen de pages: 391.23809523809524
+------
+Categorie: ['SOA']
+Nombre maximal de pages: 250
+Nombre minimal de pages: 250
+Nombre moyen de pages: 250.0
+------
+Categorie: ['Java', 'Internet']
+Nombre maximal de pages: 912
+Nombre minimal de pages: 408
+Nombre moyen de pages: 599.3333333333334
+------
+Categorie: ['Web Development']
+Nombre maximal de pages: 688
+Nombre minimal de pages: 300
+Nombre moyen de pages: 441.47058823529414
+------
+Categorie: ['Java', 'Software Engineering']
+Nombre maximal de pages: 432
+Nombre minimal de pages: 432
+Nombre moyen de pages: 432.0
+------
+Categorie: ['Microsoft/.NET']
+Nombre maximal de pages: 0
+Nombre minimal de pages: 0
+Nombre moyen de pages: 0.0
+------
+Categorie: ['Business']
+Nombre maximal de pages: 528
+Nombre minimal de pages: 236
+Nombre moyen de pages: 406.0
+------
+Categorie: ['Object-Oriented Programming', 'P']
+Nombre maximal de pages: 512
+Nombre minimal de pages: 512
+Nombre moyen de pages: 512.0
+------
+Categorie: ['Java', 'Open Source']
+Nombre maximal de pages: 532
+Nombre minimal de pages: 532
+Nombre moyen de pages: 532.0
+------
+Categorie: ['Programming', 'Python']
+Nombre maximal de pages: 432
+Nombre minimal de pages: 432
+Nombre moyen de pages: 432.0
+------
+Categorie: ['XML', 'Java']
+Nombre maximal de pages: 624
+Nombre minimal de pages: 624
+Nombre moyen de pages: 624.0
+------
+Categorie: ['Mobile Technology']
+Nombre maximal de pages: 504
+Nombre minimal de pages: 0
+Nombre moyen de pages: 296.5
+------
+Categorie: ['Networking', 'Theory']
+Nombre maximal de pages: 591
+Nombre minimal de pages: 591
+Nombre moyen de pages: 591.0
+------
+*_*_*_*_*_*_*_*_*_*
+[]
+*_*_*_*_*_*_*_*_*_*
+[{'_id': 1, 'authors': ['W. Frank Ableson', 'Charlie Collins', 'Robi Sen']},
+ {'_id': 2, 'authors': ['W. Frank Ableson', 'Robi Sen']},
+ {'_id': 3, 'authors': ['Gojko Adzic']},
+ {'_id': 4, 'authors': ['Tariq Ahmed with Jon Hirschi', 'Faisal Abid']},
+ {'_id': 5,
+  'authors': ['Tariq Ahmed', 'Dan Orlando', 'John C. Bland II', 'Joel Hooks']},
+ {'_id': 7, 'authors': ['Rob Allen', 'Nick Lo', 'Steven Brown']},
+ {'_id': 6, 'authors': ['Satnam Alag']},
+ {'_id': 9,
+  'authors': ['Andres Almiray', 'Danno Ferrin', '', 'James Shingler']},
+ {'_id': 8, 'authors': ['Bernerd Allmon', 'Jeremy Anderson']},
+ {'_id': 10, 'authors': ['Alexandre de Castro Alves']},
+ {'_id': 11, 'authors': ['Peter Armstrong']},
+ {'_id': 13, 'authors': ['Peter Armstrong']},
+ {'_id': 15, 'authors': ['Jamil Azher']},
+ {'_id': 14, 'authors': ['Levi Asher', 'Christian Crumlish']},
+ {'_id': 17, 'authors': ['Kyle Banker']},
+ {'_id': 18, 'authors': ['Michael J. Barlotta']},
+ {'_id': 16, 'authors': ['Kyle Baley', 'Donald Belcham']},
+ {'_id': 19, 'authors': ['Michael Barlotta']},
+ {'_id': 20, 'authors': ['Michael J. Barlotta', 'Jason R. Weiss']},
+ {'_id': 21, 'authors': ['Jon Barrilleaux']}]
+*_*_*_*_*_*_*_*_*_*
+[{'_id': None, 'publications': 37},
+ {'_id': 'Vikram Goyal', 'publications': 12},
+ {'_id': 'Don Jones', 'publications': 6},
+ {'_id': 'Christian Bauer', 'publications': 4},
+ {'_id': 'Craig Walls', 'publications': 4},
+ {'_id': 'Tim Hatton', 'publications': 3},
+ {'_id': 'Dave Crane', 'publications': 3},
+ {'_id': 'Jon Skeet', 'publications': 3},
+ {'_id': 'Richard Siddaway', 'publications': 3},
+ {'_id': 'Bear Bibeault', 'publications': 3}]
