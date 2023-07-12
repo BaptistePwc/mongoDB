@@ -1,0 +1,4 @@
+YOU CAN RUN THE SETUP.SH FILE
+# mongoDB
+exammongoDB
+
